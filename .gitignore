@@ -1,0 +1,5 @@
+# Ignore the .idea folder (IDE settings)
+.idea/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
